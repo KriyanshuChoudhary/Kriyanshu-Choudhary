@@ -4,7 +4,7 @@
    New Delhi, India •  <a href="mailto:choudharykriyanshu8476@gmail.com">choudharykriyanshu8476@gmail.com</a>
 </p>
 <p align="center">
-  <img src="Data Analyst Illustration.png" alt="Data Analyst Illustration" width="300"/>
+  <img src="Remote Working Man.webp" alt="Data Analyst Illustration" width="400"/>
 </p>
 
 ---
