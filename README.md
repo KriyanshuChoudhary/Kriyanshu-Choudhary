@@ -17,11 +17,20 @@ I specialize in building **interactive dashboards**, conducting **EDA**, and cre
 ---
 
 ###  Technical Skills
-**Tools:** Power BI • Tableau • MS Excel(Power Query, Pivot Tables, Charts, VLOOKUP)
-**Programming And Databases:** SQL Server, Python(Pandas, NumPy, Matplotlib, Seaborn)
-**Data Management:** ETL • Data Cleaning • Validation • Modeling  
-**Analytical Techniques:** EDA • KPI Tracking • Trend Analysis • Forecasting 
-**Soft Skills:** Analytical Thinking • Problem Solving • Communication • Data Storytelling • Attention To Detail
+**Tools:**
+Power BI • Tableau • MS Excel (Power Query, Pivot Tables, Charts, VLOOKUP)
+
+**Programming & Databases:**
+SQL Server • Python (Pandas, NumPy, Matplotlib, Seaborn)
+
+**Data Management:**
+ETL • Data Cleaning • Data Validation • Data Modeling
+
+**Analytical Techniques:**
+Exploratory Data Analysis (EDA) • KPI Tracking • Trend Analysis • Forecasting
+
+**Soft Skills:**
+Analytical Thinking • Problem Solving • Communication • Data Storytelling • Attention to Detail
 
 ---
 
